@@ -1,3 +1,0 @@
-D:/Data Structure/S25/cmake-build-debug/CMakeFiles/S25.dir
-D:/Data Structure/S25/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Data Structure/S25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
